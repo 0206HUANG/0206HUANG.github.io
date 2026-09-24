@@ -7,7 +7,6 @@ Hand-written HTML, CSS and vanilla JavaScript, with no build step and no framewo
 ## Features
 
 - Dark and light themes that follow the system setting, with a manual toggle
-- English / 中文 language switch
 - Tech-stack overview and filterable project showcase built from my GitHub repositories
 - Timeline, coursework and live GitHub stats
 - Scroll-reveal animations and a typing effect, with `prefers-reduced-motion` respected
@@ -18,7 +17,7 @@ Hand-written HTML, CSS and vanilla JavaScript, with no build step and no framewo
 ```
 index.html            # the whole page
 assets/css/style.css  # design tokens, layout and components
-assets/js/app.js      # theme, i18n, filters, animations
+assets/js/app.js      # theme, filters, animations
 images/               # photo and coursework covers
 ```
 
